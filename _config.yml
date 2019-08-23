@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 图南blog
+title: 图南
 subtitle: 倚楼听风雨 淡看江湖路
 description: 前端 Javascriptript
 keywords: Javascript,nodejs,vue,react
-author: 朝朝
-language: en
+author: zhaozhao
+language: zh-CN
 timezone:
 
 # URL
